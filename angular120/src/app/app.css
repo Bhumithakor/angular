@@ -10,7 +10,10 @@ h3{
     font-size: 3000px;
 }
 
-h4
-{
+h4{
     font-variant: normal;
+}
+
+h5{
+    font-variant: inherit;
 }
